@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 eu é que tou serto
+=======
+conflito
+>>>>>>> 1
